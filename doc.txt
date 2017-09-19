@@ -1,0 +1,6 @@
+// some number of bucket documents
+{name: 'bucket', state: stringfromdocument, dispatch: dispatchchannelname: granule: #min,
+ date: stringfromts, bucket: #number, bucketcount: #number}
+// some number of tailing documents
+{name: 'tailing', start: tsbegin, end: tsend}
+// some number of range documents for backward analysis
